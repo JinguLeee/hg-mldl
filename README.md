@@ -10,3 +10,4 @@
 |**3-1** k-최근접 이웃 회귀|[link](https://colab.research.google.com/github/JinguLeee/hg-mldl/blob/main/03_1.ipynb)|
 |**3-2** 선형 회귀|[link](https://colab.research.google.com/github/JinguLeee/hg-mldl/blob/main/03_2.ipynb)|
 |**3-3** 특성 공학과 규제|[link](https://colab.research.google.com/github/JinguLeee/hg-mldl/blob/main/03_3.ipynb)|
+|**4-1** 로지스틱 회귀|[link](https://colab.research.google.com/github/JinguLeee/hg-mldl/blob/main/04_1.ipynb)|
