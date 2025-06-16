@@ -12,3 +12,4 @@
 |**3-3** 특성 공학과 규제|[link](https://colab.research.google.com/github/JinguLeee/hg-mldl/blob/main/03_3.ipynb)|
 |**4-1** 로지스틱 회귀|[link](https://colab.research.google.com/github/JinguLeee/hg-mldl/blob/main/04_1.ipynb)|
 |**4-2** 확률적 경사 하강법|[link](https://colab.research.google.com/github/JinguLeee/hg-mldl/blob/main/04_2.ipynb)|
+|**5-1** 결정 트리|[link](https://colab.research.google.com/github/JinguLeee/hg-mldl/blob/main/05_1.ipynb)|
